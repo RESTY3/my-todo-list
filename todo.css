@@ -1,0 +1,17 @@
+body{
+    background-color:aqua ;
+    padding:0px ;
+}
+h3{
+    font-size: 35px;
+}
+    
+        input{
+            color: blue;
+    }
+    .form-group{
+        padding: 10px;
+        border-spacing: 2px;
+        margin: 5px;
+        text-decoration: blue;
+    }
